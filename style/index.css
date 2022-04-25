@@ -1,0 +1,49 @@
+body{
+    background-color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+
+.center-content{
+    margin-top: 20rem;
+    border: 1px solid #353131;
+    background-color: rgb(238, 234, 228);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.input-text{
+    border-radius: 0.5rem;
+}
+
+.title-form{
+    margin-bottom: 1rem;
+}
+.links{
+    margin-top: 2rem;
+}
+a{
+    text-decoration: none;
+    color: #353131;
+    margin-right: 1rem;
+}
+
+a:hover {
+    color: rgb(107, 85, 85);
+    border-bottom: 1px solid black;
+}
+h4{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.logo{
+    width: 13rem;
+    box-shadow: #353131;
+    margin-bottom: 1rem;
+    border: 1px solid #353131;
+
+}
