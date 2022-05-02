@@ -1,0 +1,55 @@
+body{
+    background-color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+.center-content{
+    margin-top: 10rem;
+    border: 1px solid #353131;
+    background-color: rgb(238, 234, 228);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.justify-content{
+    margin-top: 20px;
+    width: 100%;
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.size-input{
+    float: right;
+    margin-right: 10%;
+    width: 70%;
+}
+.rightDiv{
+    float: right;
+    margin-right: 10%;
+}
+.check-sel{
+    margin-left: 20px;
+}
+h2{
+    letter-spacing: 2px;
+}
+.filmes{
+    margin-top: 5px;
+    padding-top: 20px;
+    border: 1px solid #353131;
+    margin-right: 30%;
+    margin-left: 20%;
+    text-align: center;
+}
+.cheks-filmes{
+    text-align: left;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+.buttons{
+    text-align: center;
+    margin-right: 10%;
+}
