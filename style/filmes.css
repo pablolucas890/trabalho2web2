@@ -1,0 +1,70 @@
+.logo{
+    width: 20%;
+    padding: 10px;
+}
+body{
+    background: antiquewhite;
+}
+a {
+	text-decoration: none;	
+}
+.menu{
+    border-right: 5px solid #DDDDDD;
+    float: left;
+    width:18%;
+    padding-left: 2%;
+    height: 527px;
+}
+.itens{
+    float: left;
+    width:79%;
+    text-align: center;
+}
+a:link, a:visited {
+	color: black;
+}
+.menu_principal{
+    padding: 10px;
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+.content1{
+    font-size: 18px;
+    padding-top: 20px;
+}
+.content1 span{
+    padding-left: 100px;
+    text-decoration: underline;
+}
+.content2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.content3{
+    padding-top: 50px;
+    padding-bottom: 10px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.content4 h4{
+    padding-bottom: 10px;
+}
+.imagem_principal{
+    width:50%;
+    border-radius: 20px;
+}
+.lista div{
+    padding: 15px;
+    width: 160px;
+}
+.lista div:hover{
+    padding: 20px;
+    background-color: white;
+}
+.rodape {
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	background: #DDDDDD;
+}
+
