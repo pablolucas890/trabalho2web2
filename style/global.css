@@ -3,10 +3,8 @@
     font-family: 'Jost',sans-serif, Helvetica, Arial, sans-serif, Courier, monospace;
 }
 .navbar-style{
-    background-color:  rgb(238, 234, 228);
+    background-color:  #DDDDDD;
     width: 100%;
-    height: 5rem;
-    border-bottom: 1px solid #353131;
 }
 .input-text{
     border-radius: 0.5rem;
