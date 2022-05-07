@@ -1,0 +1,17 @@
+.content{
+    text-align: center;
+    padding-top: 30px;
+    overflow: scroll;
+    height: 450px;
+}
+
+.video{
+    margin-top: 10px;
+    padding-top: 20px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    box-shadow: 1px 0px 20px 9px;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 95%;
+}

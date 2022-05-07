@@ -1,0 +1,30 @@
+.content{
+    text-align: center;
+}
+.aluno{
+    border: 2px solid #ccc;
+    display: inline-block;
+    width: 500px;
+    padding: 15px;
+    border-radius: 5px;
+}
+.imgs{
+    float: left;
+}
+.imgs img{
+    box-shadow: 2px 2px 5px;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+.informacoes{
+    padding-top: 5px;
+    float: right;
+    text-align: left;
+}
+.aluno:hover{
+    background-color: #f0f0f0;
+}
+.imgs img:hover{
+    transform: scale(1.2);
+    transition-duration: 700ms;
+}
