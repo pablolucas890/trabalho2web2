@@ -1,0 +1,12 @@
+.filmes_comedia div{
+    float: left;
+    padding: 15px;
+    padding-bottom: 30px;
+    padding-top: 45px;
+    margin-left: 40px;
+}
+.filmes_comedia img{
+    width: 180px;
+    height: 230px;
+}
+

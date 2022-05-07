@@ -1,0 +1,17 @@
+.imagem_principal{
+    padding-top: 20px;
+}
+.content2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.content3{
+    padding-top: 50px;
+    padding-bottom: 10px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.imagem_principal img{
+    width:50%;
+    border-radius: 20px;
+}

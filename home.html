@@ -3,33 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="./style/global.css">
-    <link rel="stylesheet" href="./style/listaFilmes.css">
+    <link rel="stylesheet" href="./style/home.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
-    <title>Document</title>
+    <title>Home</title>
 </head>
 <body>
     <div class="navbar-style center-nav">
         <div class="logo">
             <img width="150" src="img/videocenter.jpeg" alt="Logo da locadora">
         </div>
+        <div class="sair">
+           <a href="index.html"><img src="img/sair.png" alt="Sair"></a>
+        </div>
     </div>
     <div class="main">
         <div class="menu">
             <div class="menu_principal"><h3>Menu Principal</h3></div>
             <div class="lista">
-                <div><a href="">Home</a></div>
-                <div><a href="">Filmes</a></div>
-                <div><a href="">Trailers</a></div>
-                <div><a href="">Trilha Sonora</a></div>
-                <div><a href="">Contatos</a></div>
-                <div><a href="">Sobre</a></div>
+                <a href="home.html"><div>Home</div></a>
+                <a href="filmes.html"><div>Filmes</div></a>
+                <a href=""><div>Trailers</div></a>
+                <a href=""><div>Trilha Sonora</div></a>
+                <a href=""><div>Contatos</div></a>
+                <a href=""><div>Sobre</div></a>
             </div>
         </div>
         <div class="itens">
-            <div class="content1">
-                <img class="imagem_principal" src="img/videocenter.jpeg" alt="Logomarca da locadora">
+            <div class="imagem_principal">
+                <img src="img/videocenter.jpeg" alt="Logomarca da locadora">
             </div>
             <div class="content2">
                 <h2>Seja bem vindo(a) a locadora <em>VideoCenter</em></h2>
@@ -45,7 +48,7 @@
                 <h4>Endereço: <em>Poços de Caldas - MG, Rua José Antônio, Bairro Centro, n° 45</em></h4>
             </div>
         </div>
-        <div class="rodape">
+        <div id="rodape">
             @Pablo Lucas Silva Santos e @João Paulo Santos Silva - Instituto Federal do Sul de Minas Gerais - 2021
         </div>
     </div>
